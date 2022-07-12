@@ -4,3 +4,4 @@
 *.tfvars
 *.tfstate
 *.tfstate.*
+assets/
